@@ -57,3 +57,7 @@ Students preparing for practical Java exams
 Demonstrating basic string processing
 
 Creating text editors or data processors 
+
+
+output:  
+img width="900" height="450" alt="Image" src="https://github.com/user-attachments/assets/087573ee-e88c-46d3-abeb-1344cc88ba3a" />
